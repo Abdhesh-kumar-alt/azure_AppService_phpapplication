@@ -2,6 +2,6 @@
 
 print("welcome to LinuxWorld Site");
 print("<br>");
-print("i m Version 2");
+print("i m Version 1");
 
 ?>
